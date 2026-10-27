@@ -15,7 +15,7 @@ The goal of this project is to provide a centralized analytical view of sales an
 
 [![sales-operations-powerbi-dashboard](Screenshots/Screenshot 2026-09-07-dashboard.png)](https://github.com/Sathiyamoorthi-DA/sales-operations-powerbi-dashboard/blob/main/Screenshots/Screenshot%202026-09-07%201327425.png)
 
-[![sales-operations-powerbi-dashboard](Screenshots/Screenshot 2026-09-07-dashboard.png)](https://github.com/Sathiyamoorthi-DA/sales-operations-powerbi-dashboard/blob/main/Screenshots/Screenshot%202026-09-07%201326106.png)
+[![sales-operations-powerbi-dashboard](Screenshots/Screenshot 2026-09-07-dashboard.png)](https://github.com/Sathiyamoorthi-DA/sales-operations-powerbi-dashboard/blob/main/Screenshots/Screenshot%202026-09-07%201328173.png)
 
 [![sales-operations-powerbi-dashboard](Screenshots/Screenshot 2026-09-07-dashboard.png)](https://github.com/Sathiyamoorthi-DA/sales-operations-powerbi-dashboard/blob/main/Screenshots/Screenshot%202026-09-07%201326106.png)
 
