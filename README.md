@@ -11,7 +11,7 @@ The goal of this project is to provide a centralized analytical view of sales an
 ---
 ## Dashboard Preview
 
-[![sales-operations-powerbi-dashboard](Screenshots/Screenshot 2026-09-07-dashboard.png)](https://github.com/Sathiyamoorthi-DA/SBI-loan-portfolio-powerbi/blob/main/Screenshots/sbi-loan-portfolio-dashboard.png)
+[![sales-operations-powerbi-dashboard](Screenshots/Screenshot 2026-09-07-dashboard.png)](https://github.com/Sathiyamoorthi-DA/sales-operations-powerbi-dashboard/blob/main/Screenshots/Screenshot%202026-09-07%201326106.png)
 
 ## 🎯 Business Objectives
 
