@@ -9,6 +9,9 @@ The dashboard transforms sales and operational data into actionable business ins
 The goal of this project is to provide a centralized analytical view of sales and operations performance and help management monitor business growth, employee performance, regional sales, profitability, and operational activities.
 
 ---
+## Dashboard Preview
+
+[![sales-operations-powerbi-dashboard](Screenshots/Screenshot 2026-09-07-dashboard.png)](https://github.com/Sathiyamoorthi-DA/SBI-loan-portfolio-powerbi/blob/main/Screenshots/sbi-loan-portfolio-dashboard.png)
 
 ## 🎯 Business Objectives
 
